@@ -19,6 +19,27 @@
 # 7 -->                        81
 # A operação de divisão sempre resulta em um número de ponto flutuante.
 
+2.3
+print('Milena')
+
+2.4
+a = 3
+b = 5
+print(2 * a * 3 * b)
+
+2.5
+a = 1
+b = 2
+c = 3
+print(a + b + c)
+
+2.6
+salario = 750
+aumento = 15
+print(salario+(salario*aumento/100))
+
+
+
 
 
 
